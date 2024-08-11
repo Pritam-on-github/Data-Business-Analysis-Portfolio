@@ -6,4 +6,3 @@ About Me:
 You can see more information in my Resume.
 
 
-##"🚀 Dive into my portfolio, where Analytical and Technical skills meet real-world Business Problem-Solving. Explore projects leveraging Python, SQL, Power BI, Machine Learning and Deep Learning Models, Excel, and many more to turn data into actionable insights!"
